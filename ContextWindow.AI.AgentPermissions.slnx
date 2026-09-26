@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContextWindow.AI.AgentPermissions/ContextWindow.AI.AgentPermissions.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ContextWindow.AI.AgentPermissions.Tests/ContextWindow.AI.AgentPermissions.Tests.csproj" />
+  </Folder>
+</Solution>
